@@ -1,0 +1,8 @@
+dim_x: 2
+dim_y: 1
+dim_hid_enc: 64
+dim_hid_dec: 128
+dim_lat: 128
+enc_depth: 5
+dec_depth: 4
+gamma_amortize: False
